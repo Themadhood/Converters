@@ -5,10 +5,10 @@ __version__     = "0.0.1"
 __update__      = ""
 __info__        = ""
 
-try:
-    from . import _ToPy as ToPy
-except:
-    import _ToPy as ToPy
+#try:
+#    from . import _ToPy as ToPy
+#except:
+#    import _ToPy as ToPy
 
 
 
